@@ -1,0 +1,18 @@
+package com.kwork.mvptest9;
+
+/**
+ * Author：PanosKwork
+ * Time：2018/8/20 14:00
+ * Annotation：
+ */
+public class GankConfig {
+    public static final int MEIZI_SIZE=20;
+    public static final int GANK_SIZE=40;
+
+    public static final String MEIZI="meizi";
+    public static final String GANK = "gank";
+    public static final String URL = "url";
+    public static final String TRANSLATE_GIRL_VIEW = "share_girl";
+    public static final String HOST = "https://gank.io/api/";
+    public static final String CHROME = "chrome";
+}
